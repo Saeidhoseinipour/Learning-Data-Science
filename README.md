@@ -4,8 +4,22 @@ There are many online courses, books, channels youtube and other ways for learni
 > There are some model for description **Data Science**.
 > My story is very simple.   
 - Statistics
-# ![Website for learning data science](file:///C:/Users/saeid/Downloads/20%20websites%20for%20learning%20online.jpg "Website")
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
-# [![image alt text](file:///C:/Users/saeid/Downloads/20%20websites%20for%20learning%20online.jpg)](anchor link)
 - Linear Algebra
 - Computer Science
+
+
+# learning
+
+
+<p align="center">
+  <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
+</p>
+
+**Learning Philosophy**: 
+- [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
+- [Just in Time Learning](https://www.developgoodhabits.com/just-in-time-learning/)
+- [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
+- [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
+- [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
