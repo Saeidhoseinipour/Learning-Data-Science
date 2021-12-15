@@ -4,6 +4,11 @@ There are many online courses, books, channels youtube and other ways for learni
 > There are some model for description **Data Science**.
 > My story is very simple.   
 - Statistics
+
+<p align="center">
+  <img src="https://postimg.cc/1fccVqwF" width="316" height="292"/>
+</p>  
+
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 - Linear Algebra
