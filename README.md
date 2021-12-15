@@ -6,7 +6,7 @@ There are many online courses, books, channels youtube and other ways for learni
 - Statistics
 
 <p align="center">
-  <img src="https://postimg.cc/1fccVqwF" width="316" height="292"/>
+  <img src="https://i.postimg.cc/zX4dMwfx/20-websites-for-learning-online.jpg" width="316" height="292"/>
 </p>  
 
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
