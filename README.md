@@ -1,9 +1,14 @@
-# Learning-Data-Science
+# Learning Data Science
 There are many online courses, books, channels youtube and other ways for learning data science. This repository is a collection of the best references.
 > # Story
 > There are some model for description **Data Science**.
 > My story is very simple.   
-- Statistics
+## ***Statistics***
+### Descriptive
+### Inferentioal
+
+
+
 
 <p align="center">
   <img src="https://i.postimg.cc/zX4dMwfx/20-websites-for-learning-online.jpg" width="316" height="292"/>
@@ -11,8 +16,8 @@ There are many online courses, books, channels youtube and other ways for learni
 
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
-- Linear Algebra
-- Computer Science
+## Linear Algebra
+## Computer Science
 
 
 # learning
